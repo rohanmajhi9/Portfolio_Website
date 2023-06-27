@@ -1,10 +1,10 @@
 /* will work on this later on */
 h2{
-    background-color: orchid;
+    background-color: orchid
 }
 #mp{
     background-color:yellowgreen;
-    border: 2px solid cadetblue ;
+    border: 1px solid cadetblue ;
     padding: 1px;
     margin: 2px;
 }
